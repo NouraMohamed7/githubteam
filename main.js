@@ -1,0 +1,1 @@
+function calc(a,b,op){};
